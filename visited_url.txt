@@ -1,0 +1,18 @@
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_1.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_2.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_5.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_6.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_7.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_8.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_9.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_10.pdf
+/home/neural/Documents/QC/ISSUE_FILES/try_main_ocr2_page_11.pdf
+/home/neural/Documents/MyWorkSpace/QC_CHECK_page_1.pdf
+/home/neural/Documents/MyWorkSpace/QC_CHECK_page_4.pdf
+/home/neural/Documents/MyWorkSpace/QC_CHECK_page_1.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_3.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_6.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_9.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_12.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_15.pdf
+/home/neural/Documents/Sample_docs/GM_Templates/collections_new_formats/REFUA RX_page_18.pdf

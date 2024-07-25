@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+    <title>QC Process</title>
+
+</head>
+<body>
+<h1></h1>
+<h3>Process: Quality Check (Collection)</h3>
+<div id="log"></div>
+<div id="log1"></div>
+
+<!--    <form id="form">-->
+<!--      <label for="text">Input: </label>-->
+<!--      <input type="text" id="text" autofocus>-->
+<!--    </form>-->
+<script>
+    const log = (text, color) => {
+      document.getElementById('log').innerHTML = `${text}`;
+    };
+
+    const socket = new WebSocket('ws://' + location.host + '/echo');
+
+    socket.addEventListener('message', ev => {
+      log(ev.data, 'black');
+    });
+
+    document.getElementById('form').onsubmit = ev => {
+      ev.preventDefault();
+      const textField = document.getElementById('log1');
+      log('>>> ' + textField.value, 'red');
+      socket.send(textField.value);
+      textField.value = '';
+    };
+</script>
+
+</body>
+</html>

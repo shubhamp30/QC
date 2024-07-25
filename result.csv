@@ -1,0 +1,14 @@
+Insurer name-start : (165, 145)-end: (236,781)
+Insurer representative-start:(164,857)-end:(236,1466)
+Date-start : (255,145)-end : (293, 374)
+policy holder-start:(255,376)-end : (291, 758)
+policy number-start:(255,757)-end : (291,1004)
+accident date-start:(255,1006)-end: (291,1232)
+claim number-start : (255, 1232)-end: (291,1470)
+Patient Name-start : (550,130)-end: (590,511)
+Patient Address-start: (550,511)-end:(590,1146)
+DOB-start:(590, 130)-end:(633,513)
+Gender-start: (592, 515)-end: (635, 688)
+
+
+
